@@ -5,10 +5,12 @@
 
 📧 Email: vishwasbajaj.global@gmail.com  
 🐙 GitHub: https://github.com/vishwas-droid  
-🔗 LinkedIn: https://www.linkedin.com/in/vishwas-bajaj-09a6bb37a  
+🔗 LinkedIn: www.linkedin.com/in/
+
 
 📄 **Resume**  
-👉 [Download Resume (PDF)](https://github.com/vishwas-droid/about-me/raw/main/Vishwas_Bajaj_Resume_pdf.pdf)
+👉 [Download Resume (PDF)]( https://github.com/vishwas-droid/about-me/raw/main/Vishwas_Bajaj_Resume_pdf)
+)
 
 ---
 
