@@ -61,9 +61,30 @@ Linux (Arch, Debian, Ubuntu)
 
 ---
 
-## Bitcoin Projects
+## Featured Projects
 
-### Bitcoin Fee Estimator  
+
+### Bitcoin Mempool Analyzer
+**Python · Bitcoin Core · RPC · Regtest**
+
+A correctness-first CLI tool for analyzing live Bitcoin Core mempool data.
+The project connects to a local Bitcoin Core node via RPC and reports
+transaction counts and fee-rate distribution in sat/vB without making
+predictive assumptions.
+
+**Key highlights:**
+- Integrated directly with Bitcoin Core RPC (`getmempoolinfo`, `getrawmempool`)
+- Computes fee rates in sat/vB from real mempool entries
+- Designed with strict separation of concerns (CLI, analysis, RPC)
+- Tested against a local Bitcoin Core node running in regtest mode
+- Focused on transparency, reproducibility, and long-term maintainability
+
+**Tech stack:**  
+Python, Bitcoin Core, JSON-RPC, Regtest, CLI tooling
+
+🔗 **Repository:** https://github.com/vishwas-droid/bitcoin-mempool-analyzer
+
+### Bitcoin Fee Estimator 
 https://github.com/vishwas-droid/bitcoin-fee-estimator
 
 - Python-based CLI using Bitcoin Core RPC  
